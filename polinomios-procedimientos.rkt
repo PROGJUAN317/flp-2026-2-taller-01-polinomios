@@ -1,5 +1,5 @@
 #lang eopl
-;Autores: Samuel Garcia Parra 2459476, Nombre2 Codigo2
+;Autores: Samuel Garcia Parra 2459476, Juan Sebastian Navarrete Rada 202459562
 
 ;; Taller 1 — Polinomios dispersos.
 ;; Parte 2: representación basada en procedimientos.
