@@ -1,5 +1,5 @@
 #lang eopl
-;Autores: Juan Sebastian Navarrete 202459562, Nombre2 Codigo2
+;Autores: Juan Sebastian Navarrete 202459562, Samuel Garcia Parra 202459476
 
 ;; Taller 1 — Polinomios dispersos.
 ;; Parte 3: representación con datatypes.
