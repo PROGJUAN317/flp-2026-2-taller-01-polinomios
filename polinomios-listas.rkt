@@ -1,5 +1,5 @@
 #lang eopl
-;Autores: Samuel Garcia Parra 2459476, Nombre2 Codigo2
+;Autores: Samuel Garcia Parra 2459476, Juan Sebastian Navarrete Rada Codigo2
  
 (provide polinomio-cero insertar-termino coeficiente-de eliminar-termino)
  
@@ -177,4 +177,3 @@
 ;; (eliminar-termino p 0)   ;; => 4x^5 - (3/2)x^2
 ;; (eliminar-termino p0 0)  ;; Error
 ;; (eliminar-termino p 3)   ;; Error
- 
