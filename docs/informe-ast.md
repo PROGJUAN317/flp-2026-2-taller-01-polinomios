@@ -10,7 +10,6 @@ de Programación — Universidad del Valle, Sede Tuluá.
 | Samuel Garcia Parra | 2459476 | samuel.parra@correounivalle.edu.co |
 | Juan Sebastian Navarrete | 202459562 | {{correo2@correounivalle.edu.co}} |
 
-
 ---
 
 ## 1. Gramática considerada
