@@ -1,5 +1,5 @@
 #lang eopl
-;Autores: Nombre1 Codigo1, Nombre2 Codigo2
+;Autores: Samuel Garcia Parra 202459476, Nombre2 Codigo2
 
 ;; Taller 1 — Polinomios dispersos.
 ;; Parte 3: representación con datatypes.
